@@ -1,23 +1,29 @@
   
-  <h3>Gary O'Neill - 20+ Years in Tech</h3>
+  <h3>Gary O'Neill</h3>
 </div>
 
 ---
 
 ### 💻 Stack & Expertise
 
-Building high-performance, scalable systems since the early 2000s. My current focus is on **Design Systems, Premium UX, and Frontend Architecture**.
+Building high-performance, scalable systems since the early 2000s.**.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,framer,nodejs,git,github,vercel,vscode,html,css,python,aws,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,git,github,vscode,html,css,python" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Summary
+### 📊 GitHub Activity
 
-![](https://raw.githubusercontent.com/garyjamesoneill/garyjamesoneill/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](https://raw.githubusercontent.com/garyjamesoneill/garyjamesoneill/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/garyjamesoneill/garyjamesoneill/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=garyjamesoneill&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garyjamesoneill&theme=tokyo-night&hide_border=true" />
+</p>
