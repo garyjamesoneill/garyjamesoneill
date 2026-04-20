@@ -1,24 +1,4 @@
 <h1 align="center">Gary O'Neill</h1>
-<p align="center">
-  Crafting experiences with clean code, strong UI/UX and years of hands on building experience.
-</p>
-<p align="center">
-  Building on the web since the early 2000s.
-</p>
-
----
-
-## 💻 Stack & Expertise
-
-Focused on creating polished and scalable products using modern frontend technologies and thoughtful user design.
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,git,github,vscode,html,css,python" alt="Gary O'Neill tech stack" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Activity
 
