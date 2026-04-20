@@ -1,5 +1,3 @@
-<h1 align="center">Gary O'Neill</h1>
-
 ## 📊 GitHub Activity
 
 <p align="center">
