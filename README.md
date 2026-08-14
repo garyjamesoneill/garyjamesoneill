@@ -1,147 +1,68 @@
-# Gary O'Neill
-
 <div align="center">
 
-### Building things that are worth shipping
-
-**Husband · Dad · Developer**
+### Husband · Dad · Developer
 
 Built a **#1 mobile game** before AI was a thing
 Stepped away for 5 years
-Now I'm back
-
-**Shipping again**
+Back now and shipping again
 
 </div>
 
 ---
 
-## 👋 About me
+## What I'm doing
 
-I've been building software for a long time.
+I'm back to building software after 5 years away.
 
-Before AI became part of everyone's development workflow, I built and shipped a mobile game that reached **#1**.
+A lot has changed while I've been gone, especially with AI and the tools available to developers now.
 
-Then life happened.
+I'm using that to build things I actually want to use.
 
-I took 5 years away from software development — and came back with a very different perspective on what is worth building.
-
-Now I'm exploring what's possible with modern tools, AI and a lot of curiosity.
-
-> **The goal isn't to write more code.
-> The goal is to build things people actually want.**
+Most of the projects you'll find here start with a problem I've had myself. I build something to fix it, use it, improve it and eventually decide whether it's worth sharing.
 
 ---
 
-## 🚀 What I'm doing now
+## Open source
 
-* 🧠 Exploring what AI changes about software development
-* 🛠️ Building and shipping rather than endlessly planning
-* 💡 Turning ideas into working products
-* 🎮 Still fascinated by games and what makes them addictive
-* ⚡ Learning by building
-* 👨‍👩‍👧‍👦 Doing all of this while being a husband and dad
+A lot of these projects started as things I was going to sell.
 
----
+I've changed my mind.
 
-## 🧭 The comeback
+If I've built something that saves me time or makes my workflow better, there's a good chance someone else might find it useful too.
 
-```text
-Build
-  ↓
-Ship
-  ↓
-Learn
-  ↓
-Life happens
-  ↓
-5 years away
-  ↓
-Come back
-  ↓
-Build again
-  ↓
-🚀
-```
+So I'm going to give them away.
 
-Five years away didn't make me less interested in building.
-
-It made me much more selective about **what deserves to be built**.
+If something I build makes **one person's workflow a little better**, I'll consider it worthwhile.
 
 ---
 
-## 🧰 Things I like
+## The rule
 
-```text
-Software        ████████████████████  Building
-AI              ███████████████████░  Exploring
-Startups        ██████████████████░░  Interested
-Games           ████████████████████  Always
-Side projects   ████████████████████  Dangerous
-Overengineering █████░░░░░░░░░░░░░░░  Trying not to
-```
+I don't want this account full of half finished ideas that sounded good on paper.
+
+I'd rather build something useful, use it myself and then put it out into the world.
+
+If it helps someone else, even better.
 
 ---
 
-## 📌 What you'll find here
+## A little history
 
-Most of my repositories fall into one of three categories:
+I built and shipped a mobile game that reached **#1**.
 
-**🧪 Experiments**
-Ideas I'm testing and technologies I'm learning.
+Then I took 5 years away from software development.
 
-**🚀 Things I'm shipping**
-Projects that made it beyond the "maybe I'll build this" stage.
+Now I'm back.
 
-**🧰 Useful stuff**
-Tools, code and ideas that might be useful to someone else.
+The technology has changed a lot.
 
----
-
-## ⚡ My current philosophy
-
-**Build small**
-
-Start with the smallest useful version.
-
-**Ship early**
-
-A real user beats a perfect architecture.
-
-**Use the tools**
-
-AI has changed the cost of experimentation. Take advantage of it.
-
-**Stay curious**
-
-Technology changes. The desire to build doesn't.
-
-**Finish things**
-
-Ideas are cheap. Finished software is interesting.
-
----
-
-## 🌱 Right now
-
-I'm back in the arena.
-
-Learning
-Building
-Experimenting
-Shipping
-
-One project at a time.
+I'm enjoying catching up.
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
-**If you're building something interesting, I'm probably interested.**
+**Build it because you need it.**
+**Share it because someone else might too.**
 
 </div>
-
-[1]: https://github.com/garyoneill "garyoneill (Gary O'Neill) · GitHub"
-[2]: https://docs.github.com/en/account-and-profile/concepts/personal-profile?utm_source=chatgpt.com "About your profile - GitHub Docs"
