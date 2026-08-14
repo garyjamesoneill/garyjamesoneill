@@ -2,9 +2,7 @@
 
 ### Husband · Dad · Developer
 
-Built a **#1 mobile game** before AI was a thing
-Stepped away for 5 years
-Back now and shipping again
+Built a **#1 mobile game** before AI was a thing. Stepped away for 5 years. Back now and shipping again.
 
 </div>
 
